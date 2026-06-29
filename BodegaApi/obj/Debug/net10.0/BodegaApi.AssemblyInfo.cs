@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BodegaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cd85e1c836f9557f19b143057d2974cc7629f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BodegaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BodegaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
